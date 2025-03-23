@@ -1,0 +1,44 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "parcool:parcool_guide": {
+      "viewedEntries": [
+        "parcool:about/about_parcool",
+        "parcool:about/about_parkour",
+        "parcool:about/stamina",
+        "parcool:about/f_a_q",
+        "parcool:about/credit",
+        "parcool:actions/wall_run",
+        "parcool:actions/fast_run",
+        "parcool:actions/breakfall",
+        "parcool:actions/dodge",
+        "parcool:actions/wall_slide",
+        "parcool:actions/charge_jump",
+        "parcool:actions/hang_down",
+        "parcool:actions/quick_turn",
+        "parcool:actions/climb_poles",
+        "parcool:actions/horizontal_wall_run",
+        "parcool:actions/catleap",
+        "parcool:actions/dive",
+        "parcool:actions/cling_to_cliff",
+        "parcool:actions/slide",
+        "parcool:actions/crawl",
+        "parcool:actions/flipping"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:tomeofblood/spellbooks",
+        "ars_nouveau:transmutation",
+        "ars_nouveau:armor/armor",
+        "ars_nouveau:armor/armor_upgrade",
+        "ars_nouveau:armor/alteration_table"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

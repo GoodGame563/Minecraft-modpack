@@ -1,0 +1,49 @@
+# Логи и временные файлы
+*.log
+*.log.qz
+*.dat_old
+session.lock
+
+# Файлы сохранений мира (регионы, сущности, точки интереса и т.д.)
+/Новый мир (3)/
+/Новый мир (4)/
+DIM-1/
+DIM1/
+dimensions/
+region/
+entities/
+poi/
+playerdata/
+advancements/
+data/
+stats/
+saves/
+level.dat
+kubejs_persistent_data.nbt
+figura/
+logs/
+kubejs/
+crash-reports/
+# Личные данные игрока
+650927f6-d96b-4a83-88f4-583bb87134bb.*
+
+# Скриншоты и схемы
+screenshots/
+schematics/
+
+# Кэши и ненужные файлы
+usercache.json
+usernamecache.json
+*.bak
+*.tmp
+.connector/
+
+# Текстурпаки (исключаем, если вы решите не включать их напрямую)
+/texturepacks/
+
+# Исключения для сохранения конфигураций, шейдеров, ресурспаков и клавиш
+!/config/
+!/serverconfig/
+!/shaderpacks/
+!/server-resource-packs/
+!/options.txt
