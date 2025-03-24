@@ -42,7 +42,7 @@ usernamecache.json
 /texturepacks/
 
 # Исключения для сохранения конфигураций, шейдеров, ресурспаков и клавиш
-!/config/
+/config/
 !/serverconfig/
 !/shaderpacks/
 !/server-resource-packs/
