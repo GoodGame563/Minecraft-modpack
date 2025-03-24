@@ -3,6 +3,6 @@
 	"pickAnimation": true,
 	"digAnimation": true,
 	"tillAnimation": true,
-	"showArmsInFirstPerson": false,
+	"showArmsInFirstPerson": true,
 	"showOffHandInFirstPerson": true
 }
