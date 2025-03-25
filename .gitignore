@@ -26,7 +26,6 @@ kubejs/
 crash-reports/
 # Личные данные игрока
 650927f6-d96b-4a83-88f4-583bb87134bb.*
-
 # Скриншоты и схемы
 screenshots/
 schematics/
@@ -42,7 +41,7 @@ usernamecache.json
 /texturepacks/
 
 # Исключения для сохранения конфигураций, шейдеров, ресурспаков и клавиш
-!/config/
+config/
 !/serverconfig/
 !/shaderpacks/
 !/server-resource-packs/

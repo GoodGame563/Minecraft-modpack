@@ -29,6 +29,24 @@
       "bookmarks": [],
       "completedManualQuests": []
     },
+    "bloodmagic:guide": {
+      "viewedEntries": [
+        "bloodmagic:altar/blood_altar",
+        "bloodmagic:altar/blood_rune/acceleration_rune",
+        "bloodmagic:utility/getting_started",
+        "bloodmagic:alchemy_table/alchemy_table"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "terramity:terramity_guidebook": {
+      "viewedEntries": [
+        "terramity:guns/gun_types",
+        "terramity:overview/introduction"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "ars_nouveau:worn_notebook": {
       "viewedEntries": [
         "ars_nouveau:tomeofblood/spellbooks",
