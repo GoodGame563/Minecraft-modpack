@@ -47,6 +47,13 @@
       "bookmarks": [],
       "completedManualQuests": []
     },
+    "thermal:guidebook": {
+      "viewedEntries": [
+        "thermal:storage_and_transport/storage/fluid_cell"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "ars_nouveau:worn_notebook": {
       "viewedEntries": [
         "ars_nouveau:tomeofblood/spellbooks",
